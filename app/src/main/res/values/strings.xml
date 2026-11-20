@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">遥屏安卓端</string>
+    <string name="tap_desc">用于接收电脑/手机发来的点击指令，在本机模拟触摸。只在你主动开启时工作。</string>
+</resources>
